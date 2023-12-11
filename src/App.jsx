@@ -3,8 +3,6 @@ import UserInterface from "./UserInterface"
 import React, { useContext } from "react";
 import StylesContext from "./StylesContext";
 
-
-
 function App() {
   const stylin = {
     background: "#1ECD97",
