@@ -1,4 +1,3 @@
-import React from 'react'; import React from 'react';
 import './App.css';
 import UserInterface from "./UserInterface"
 import React, { useContext } from "react";
